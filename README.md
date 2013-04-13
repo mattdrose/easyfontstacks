@@ -4,7 +4,7 @@ A number of popular font stacks for SASS and LESS. Put together by [Denis Leblan
 
 ## How to Use
 
-After installing and setting up your favorite preprocessor, simply call the variables found in the fonts file.
+After installing and setting up your favorite preprocessor, simply call the variables found in the ``_fonts`` file.
 
 ### SASS
 
